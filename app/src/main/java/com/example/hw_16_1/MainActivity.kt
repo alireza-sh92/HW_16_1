@@ -4,6 +4,8 @@ import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import com.example.hw_16_1.databinding.ActivityMainBinding
+import com.example.hw_16_1.uilayer.AddItemFragment
+import com.example.hw_16_1.uilayer.MyFragmentAdapter
 import com.google.android.material.tabs.TabLayoutMediator
 
 class MainActivity : AppCompatActivity() {

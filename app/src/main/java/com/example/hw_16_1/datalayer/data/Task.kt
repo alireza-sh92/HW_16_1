@@ -1,4 +1,4 @@
-package com.example.hw_16_1.data
+package com.example.hw_16_1.datalayer.data
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
